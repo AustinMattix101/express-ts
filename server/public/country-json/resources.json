@@ -1,0 +1,80 @@
+[
+        {
+          "country": "United States",
+          "language_code": "en-US",
+          "name": "English",
+          "country_code": "US",
+          "currency_code": "USD"
+        },
+        {
+          "country": "United Kingdom",
+          "language_code": "en",
+          "name": "English",
+          "country_code": "GB",
+          "currency_code": "GBP"
+        },
+        {
+          "country": "China",
+          "language_code": "zh-Hans-CN",
+          "name": "中文 (简体)",
+          "country_code": "CN",
+          "currency_code": "CNY"
+        },
+        {
+          "country": "Taiwan",
+          "language_code": "zh-Hant-CN",
+          "name": "中文 (繁体)",
+          "country_code": "TW",
+          "currency_code": "TDL"
+        },
+        {
+          "country": "Cambodia",
+          "language_code": "km-KH",
+          "name": "ភាសាខ្មែរ",
+          "country_code": "KH",
+          "currency_code": "KHR"
+        },
+        {
+          "country": "Saudi Arabia",
+          "language_code": "ar-SA",
+          "name": "العربية",
+          "country_code": "SA",
+          "dir": "rtl",
+          "currency_code": "SAR"
+        },
+        {
+          "country": "Japan",
+          "language_code": "jp-JP",
+          "name": "Japanese",
+          "country_code": "JP",
+          "currency_code": "JPY"
+        },
+        {
+          "country": "South Korea",
+          "language_code": "kr-SK",
+          "name": "South Korea",
+          "country_code": "KR",
+          "currency_code": "KRW"
+        },
+        {
+          "country": "Malaysia",
+          "language_code": "my-MY",
+          "name": "Malaysia",
+          "country_code": "MY",
+          "currency_code": "MYR"
+        },
+        {
+          "country": "Thailand",
+          "language_code": "th-TL",
+          "name": "Thai",
+          "country_code": "TH",
+          "currency_code": "THB"
+        },
+        {
+          "country": "Vietnam",
+          "language_code": "vn-VN",
+          "name": "Vietnamese",
+          "country_code": "VN",
+          "currency_code": "VND"
+        }
+]

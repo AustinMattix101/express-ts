@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 node_modules/
-src/
+server/
 .vscode/
 /.vscode
 /.pnp
@@ -14,6 +14,7 @@ src/
 
 # production
 /build
+dist/
 
 # misc
 .env
